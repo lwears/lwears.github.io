@@ -1,6 +1,6 @@
 body {
     font-family: 'Assistant', sans-serif;
-    text-align: center;
+    text-align: justify;
 }
 
 nav {
@@ -59,10 +59,27 @@ h2 {
     padding: 8px;
 }
 
+#pageOne {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: #F4F1DE;
+    color: #44475A;
+    font-size: large;
+}
+
+#pageOne h2 {
+    color: #44475A;
+    text-align: center;
+}
+
 #pageTwo {
     padding-top: 20px;
     padding-bottom: 40px;
     background-color: #494850;
+}
+
+#pageTwo h2 {
+    text-align: center;
 }
 
 #pageTwo p {
@@ -124,18 +141,6 @@ h2 {
     text-align: left;
     color: #44475A;
     align-items: center;
-}
-
-#pageOne {
-    padding-top: 20px;
-    padding-bottom: 40px;
-    background-color: #F4F1DE;
-    color: #44475A;
-    font-size: large;
-}
-
-#pageOne h2 {
-    color: #44475A;
 }
 
 #me {
