@@ -59,10 +59,15 @@ h2 {
     padding: 8px;
 }
 
+.container2 {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
 #pageOne {
-    padding-top: 20px;
-    padding-bottom: 40px;
-    background-color: #F4F1DE;
+    padding: 3rem;
+    background-color: #E5ECF4;
     color: #44475A;
     font-size: large;
 }
@@ -75,16 +80,17 @@ h2 {
 #pageTwo {
     padding-top: 20px;
     padding-bottom: 40px;
-    background-color: #494850;
+    background-color: #E5ECF4;
 }
 
 #pageTwo h2 {
     text-align: center;
+    color: #44475A;
 }
 
 #pageTwo p {
     margin-top: 20px;
-    color: #F4F1DE;
+    color: #44475A;
 }
 
 #pageTwo ul {
@@ -103,7 +109,7 @@ h2 {
 }
 
 #pageThree {
-    background-color: #F4F1DE;
+    background-color: #E5ECF4;    
     padding: 20px 20px 60px;
     color: #2C2C34;
 }
@@ -189,8 +195,24 @@ h2 {
 
 footer {
     height: 200px;
-    background-color: #2C2C34;
+    background-color: #01161E;
 }
+  .card-2 {
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
+
+  .card-3 {
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin: 0.5rem;
+    display: inline-block;
+    position: relative;
+    height: 400px;
+    width: 400px;
+  }
 
 .fa-github-square {
     color: #ffffff;
