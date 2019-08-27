@@ -1,6 +1,6 @@
 body {
     font-family: 'Assistant', sans-serif;
-    text-align: justify;
+    
 }
 
 nav {
@@ -60,13 +60,13 @@ h2 {
 }
 
 .container2 {
-    max-width: 1100px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
 }
 
 #pageOne {
-    padding: 3rem;
+    padding: 1rem;
     background-color: #E5ECF4;
     color: #44475A;
     font-size: large;
@@ -78,9 +78,9 @@ h2 {
 }
 
 #pageTwo {
-    padding-top: 20px;
-    padding-bottom: 40px;
+    padding: 1rem;
     background-color: #E5ECF4;
+    text-align: center;
 }
 
 #pageTwo h2 {
@@ -91,11 +91,6 @@ h2 {
 #pageTwo p {
     margin-top: 20px;
     color: #44475A;
-}
-
-#pageTwo ul {
-    color: #F4F1DE;
-    text-align: left;
 }
 
 .experience {
@@ -112,6 +107,7 @@ h2 {
     background-color: #E5ECF4;    
     padding: 20px 20px 60px;
     color: #2C2C34;
+    text-align: center;
 }
 
 #pageThree h2 {
@@ -138,19 +134,9 @@ h2 {
      color: #44475A;
  }
 
-.aboutMe {
-    margin: 2% 10%;
-    padding: 18px;
-    border-radius: 4px;
-    font-size: large;
-    line-height: 30px;
-    text-align: left;
-    color: #44475A;
-    align-items: center;
-}
-
 #me {
     border-radius: 50%;
+    max-width: 250;
 }
 
 .borders {
@@ -197,21 +183,15 @@ footer {
     height: 200px;
     background-color: #01161E;
 }
-  .card-2 {
-    background: #fff;
-    border-radius: 2px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-  }
 
   .card-3 {
     background: #fff;
     border-radius: 2px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-    margin: 0.5rem;
+    margin: 1rem;
     display: inline-block;
     position: relative;
-    height: 400px;
-    width: 400px;
+    padding: 1rem;
   }
 
 .fa-github-square {
