@@ -136,7 +136,7 @@ h2 {
 
 #me {
     border-radius: 50%;
-    max-width: 250;
+    margin: 0.5rem;
 }
 
 .borders {
