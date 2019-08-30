@@ -109,6 +109,11 @@ a {
 	text-align: left;
 }
 
+#pageThree p {
+	margin-top: 20px;
+	color: #44475a;
+}
+
 #pageThree h2 {
 	text-align: center;
 	color: #44475a;
