@@ -59,6 +59,7 @@ body {
 
 .svgs {
 	width: 15%;
+	max-width: 10%;
 }
 
 .me {
