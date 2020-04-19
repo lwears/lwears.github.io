@@ -25,11 +25,11 @@ body {
 
 .projects {
 	/* background-color: whitesmoke; */
-	height: 400px;
+	/* height: 400px; */
 }
 
 .experience {
-	height: 400px;
+	/* height: 400px; */
 }
 
 .text-yellow {
@@ -59,13 +59,8 @@ body {
 
 .svgs {
 	width: 15%;
-	margin: 2%;
 }
 
-svg {
-	width: 110px;
-}
-
-.test {
-	width: 110px;
+.me {
+	width: 75%;
 }

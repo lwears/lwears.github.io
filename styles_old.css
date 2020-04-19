@@ -2,10 +2,10 @@ body {
 	font-family: 'Assistant', sans-serif;
 }
 
-nav {
+/* nav {
 	background-color: #2c2c34;
 	opacity: 0.5%;
-}
+} */
 
 .navbar-collapse {
 	justify-content: flex-end;
